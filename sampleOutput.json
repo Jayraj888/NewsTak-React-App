@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "Chris De Silva",
+      "title": "Usman Khawaja did it all his own way and retires a modern day Australian cricket great",
+      "description": "Before his debut in 2011, Australia had never seen a cricketer like Usman Khawaja and, thanks to his work on and off the field, he'll be followed by plenty more.",
+      "url": "https://www.abc.net.au/news/2026-01-02/usman-khawaja-retirement-cricket-career-legacy-analysis/106092620",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/2d6a06a6d35a36f5b52507e7015900d2?impolicy=wcms_watermark_news&cropH=1060&cropW=1885&xPos=0&yPos=197&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-01-01T23:01:02Z",
+      "content": "The signs were evident early on in Usman Khawaja's career that he would do things his own way.\r\nKhawaja made his international debut for Australia in the 2011 New Year's Test against England in Sydne… [+7786 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Usman Khawaja to retire: Australia batter ends international career after fifth Ashes Test",
+      "description": "Australia batter Usman Khawaja will retire from international cricket following the fifth Ashes Test against England in Sydney this week.",
+      "url": "http://www.bbc.co.uk/sport/cricket/articles/cy5g32l2621o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png",
+      "publishedAt": "2026-01-01T21:52:20.9258678Z",
+      "content": "Alongside Steve Smith, Khawaja is one of two remaining members of the Australia team beaten by England in their last series win in this country in 2010-11.\r\nKhawaja has made 6,206 Test runs at an ave… [+1406 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Aatif Sulleyman",
+      "title": "How to watch Big Bash League 2025/26: free streams, fixture list for BBL15 T20 cricket season",
+      "description": "David Warner, Marcus Stoinis and Mitch Owen headline the action",
+      "url": "https://www.techradar.com/how-to-watch/cricket/big-bash-league-2025-26-free-bbl15-t20-cricket",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WiFyaezWcxRh49KGkaZ54m-1920-80.jpg",
+      "publishedAt": "2025-12-14T04:00:00Z",
+      "content": "Adelaide StrikersHasan Ali (Pak), Cameron Boyce, Jordan Buckingham, Alex Carey, Mackenzie Harvey, Thomas Kelly, Chris Lynn, Harry Nielsen, Jamie Overton (Eng), Lloyd Pope, Alex Ross, Jason Sangha, Li… [+1934 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
