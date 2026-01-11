@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsTak-React-App/static/css/main.dc4d6ff2.css",
+    "main.js": "/NewsTak-React-App/static/js/main.b38235f8.js",
+    "static/js/453.49c13d3b.chunk.js": "/NewsTak-React-App/static/js/453.49c13d3b.chunk.js",
+    "index.html": "/NewsTak-React-App/index.html",
+    "main.dc4d6ff2.css.map": "/NewsTak-React-App/static/css/main.dc4d6ff2.css.map",
+    "main.b38235f8.js.map": "/NewsTak-React-App/static/js/main.b38235f8.js.map",
+    "453.49c13d3b.chunk.js.map": "/NewsTak-React-App/static/js/453.49c13d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.b38235f8.js"
+  ]
+}
